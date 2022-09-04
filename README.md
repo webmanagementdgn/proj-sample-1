@@ -3,7 +3,7 @@
 
 this is my sample project with redux toolkit please note that this project was made to show how i would handle redux toolkit and use it for UX/UI the idea is to show my skills in (React, UX/UI, making reusable components, handling redux toolkit, javescript) however these are NOT the only skills that i have
 
-<hr/>
+
 
 <h1>My Skills</h1>
 
@@ -17,7 +17,7 @@ the skills mentioned above are not the only thing i know i do have other skills 
 - Sass
 - React icons
 
-<hr/>
+
 
 
 <h1>Other skills that im not as comfortable with are</h1>
@@ -27,7 +27,7 @@ the skills mentioned above are not the only thing i know i do have other skills 
 - Express
 - MongoDB
 
-<hr/>
+
 
 
 <h1>What jobs im looking for / location</h1>
