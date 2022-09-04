@@ -1,7 +1,12 @@
+<h2>live site to showcase this project https://project-sample-wd.netlify.app/ <h2>
+
+
 
 <h1>Introduction</h1>
 
-this is my sample project with redux toolkit please note that this project was made to show how i would handle redux toolkit and use it for UX/UI the idea is to show my skills in (React, UX/UI, making reusable components, handling redux toolkit, javescript) however these are NOT the only skills that i have
+
+
+this is my <a href="https://project-sample-wd.netlify.app/">sample project</a> with redux toolkit please note that this project was made to show how i would handle redux toolkit and use it for UX/UI the idea is to show my skills in (React, UX/UI, making reusable components, handling redux toolkit, javescript) however these are NOT the only skills that i have
 
 
 
