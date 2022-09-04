@@ -503,4 +503,8 @@ Details Page
   .container {
     padding: 0px 20px;
   }
+  .remove-btn {
+    width: 60px;
+    font-size: 14px;
+  }
 }
