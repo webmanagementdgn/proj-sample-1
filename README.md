@@ -1,5 +1,5 @@
-<h2>live site to showcase this project https://project-sample-wd.netlify.app/ <h2>
- this project is in persian but its simple enough for everyone to test the functionality of it
+<h4>live site to showcase this project https://project-sample-wd.netlify.app/ 
+ this project is in persian but its simple enough for everyone to test the functionality of it<h4>
 
 
 
