@@ -20,7 +20,7 @@ the skills mentioned above are not the only thing i know i do have other skills 
 
 
 
-<h1>Other skills that im not as comfortable with are</h1>
+<h3>Other skills that im not as comfortable with are</h3>
 
 
 - Node
