@@ -514,4 +514,7 @@ Details Page
   .product .cart-btn {
     transform: translateX(20px);
   }
+  .product-title {
+    font-size: 14px;
+  }
 }
