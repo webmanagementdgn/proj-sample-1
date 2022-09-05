@@ -477,6 +477,7 @@ Details Page
   color: black;
 }
 
+/* phone/tablet css */
 @media (max-width: 1100px) {
   .row {
     grid-template-columns: repeat(3, 1fr);
