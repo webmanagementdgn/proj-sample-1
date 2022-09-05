@@ -507,4 +507,10 @@ Details Page
     width: 60px;
     font-size: 14px;
   }
+  .product {
+    box-shadow: 0 0px 5px 1px rgba(0, 0, 0, 0.418);
+  }
+  .product .cart-btn {
+    transform: translateX(20px);
+  }
 }
